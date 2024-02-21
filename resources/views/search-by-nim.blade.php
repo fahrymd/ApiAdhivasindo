@@ -14,7 +14,7 @@
     <div class="container-fluid mt-4">
 
         @if(isset($result) && count($result) > 0)
-            <h2>Search Result:</h2>
+            <h2>Search By Nim Result:</h2>
             <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
